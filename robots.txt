@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://etuheevu.github.io/cmf/sitemap_index.txt
+Sitemap: https://etuheevu.github.io/hMm/sitemap_index.txt
+Sitemap: https://etuheevu.github.io/tjq/sitemap_index.txt
+Sitemap: https://etuheevu.github.io/vHR/sitemap_index.txt
